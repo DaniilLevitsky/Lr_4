@@ -1,0 +1,9 @@
+*.txt
+*.[oa]
+*~
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
